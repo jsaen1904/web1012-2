@@ -1,3 +1,16 @@
+body {
+  background: linear-gradient(135deg, #141e30, #243b55);
+  min-height: 100vh;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 40px;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+h1, footer {
+  color: #fff;
+}
+
 .card {
   width: 260px;
   border-radius: 12px;
